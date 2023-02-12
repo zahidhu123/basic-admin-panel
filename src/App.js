@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <>
-
       <div id="overlay">
         <img src="./img/preloader.gif" alt="Preloader icon" />
       </div>
